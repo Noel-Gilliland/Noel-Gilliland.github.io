@@ -2,13 +2,13 @@
 title: Noel Gilliland
 ---
 
-# Noel Gilliland 🎓  
+# Noel Gilliland 
 **Computer Science Major at the University of Oregon — Class of 2026**  
-📍 Eugene, OR
+    Eugene, OR
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 **Languages:**  
 Python • C / C++ • Java  
@@ -19,7 +19,7 @@ Photoshop • Illustrator • Vegas Pro / Premiere Pro • PowerPoint • Adobe 
 **Other:**  
 Data Structures • Networking • Algorithms • Mathematics  
 
-## 🧠 Interests
+## Interests
 - Software Development  
 - Video Game Programming  
 - Parallel Computing / Multithreading
@@ -27,23 +27,23 @@ Data Structures • Networking • Algorithms • Mathematics
 
 ---
 
-## 🧰 Experience
+## Experience
 
 **Sideshow Collectibles**  
 *Factotum*  
-🗓️ May 2022 – March 2024  
+  May 2022 – March 2024  
 
 ---
 
-## 📬 Contact
+## Contact
 
-📧 [NoelGilliland03@gmail.com](mailto:NoelGilliland03@gmail.com)  
-📞 (805) 630-6798  
-📍 1585 E 13th Ave, Eugene, OR 97403
+   [NoelGilliland03@gmail.com](mailto:NoelGilliland03@gmail.com)  
+   (805) 630-6798  
+   1585 E 13th Ave, Eugene, OR 97403
 
 ---
 
-## 🔗 Links
+## Links
 
 - [GitHub](https://github.com/Noel-Gilliland)
 - [LinkedIn](https://www.linkedin.com/in/noel-gilliland-981000337/)
