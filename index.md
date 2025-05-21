@@ -8,11 +8,6 @@ title: Noel Gilliland
 
 ---
 
-## 🧠 Interests
-- Software Development  
-- Video Game Programming  
-- Parallel Computing / Multithreading
-
 ## 💻 Technical Skills
 
 **Languages:**  
@@ -23,6 +18,12 @@ Photoshop • Illustrator • Vegas Pro / Premiere Pro • PowerPoint • Adobe 
 
 **Other:**  
 Data Structures • Networking • Algorithms • Mathematics  
+
+## 🧠 Interests
+- Software Development  
+- Video Game Programming  
+- Parallel Computing / Multithreading
+
 
 ---
 
